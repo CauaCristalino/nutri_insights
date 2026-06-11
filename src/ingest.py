@@ -1,66 +1,94 @@
 import requests
 import json
 from pathlib import Path
+import os
+from dotenv import load_dotenv
 
-def buscar_alimentos(categoria: str, pagina: int = 1, tamanho: int = 100) -> list:
-    """ Busca alimentos da Open Food Facts por categoria.
+
+load_dotenv()
+
+API_KEY = os.getenv("FDC_API_KEY")
+BASE_URL = "https://api.nal.usda.gov/fdc/v1/foods/search"
+
+def buscar_alimentos(query: str, pagina: int = 1, tamanho: int = 50) -> list:
+    """
+    Busca alimentos na USDA FoodData Central por termo de pesquisa.
     Retorna uma lista de dicionários com os nutrientes relevantes.
     """
 
-    url = "https://world.openfoodfacts.org/cgi/search.pl"
-
     params = {
-        "search_terms": categoria,
-        "search_simple": 1,
-        "action": "process",
-        "json": 1,
-        "page": pagina,
-        "page_size": tamanho
+        "query": query,
+        "pageNumber": pagina,
+        "pageSize": tamanho,
+        "api_key": API_KEY
     }
 
     headers = {
-        "User-Agent": "Nutri_Insights/1.0 (caua.pereira345@gmail.com)"
+        "User-Agent": "NutriInsights/1.0 (caua.pereira345@gmail.com)"
     }
 
-    response = requests.get(url, params=params, headers=headers, timeout=15)
+    response = requests.get(BASE_URL, params=params, headers=headers, timeout=15)
     response.raise_for_status()
 
-    produtos = response.json().get("products", [])
+    alimentos = response.json().get("foods", [])
 
-    return extrair_campos(produtos)
+    return extrair_campos(alimentos)
 
-def extrair_campos(produtos: list) -> list:
+
+def extrair_campos(alimentos: list) -> list:
     """
-    Mapeia os campos da API para os nomes do Banco de Dados
+    Mapeia os campos da API USDA para os nomes do nosso banco.
+    Ignora alimentos sem nome ou sem dados nutricionais.
     """
+
+    # mapeamento do nome do nutriente na API para o nome no banco
+    mapa_nutrientes = {
+        "Energy":              "calorias_100g",
+        "Protein":             "proteinas_100g",
+        "Total lipid (fat)":   "gorduras_100g",
+        "Fatty acids, total saturated": "gordura_sat_100g",
+        "Carbohydrate, by difference":  "carboidratos_100g",
+        "Sugars, total including NLEA": "acucar_100g",
+        "Sodium, Na":          "sodio_100g",
+        "Fiber, total dietary": "fibras_100g",
+    }
+
     resultado = []
 
-    for produto in produtos:
-        nutriments = produto.get("nutriments", {})
+    for alimento in alimentos:
+        nutrientes_raw = alimento.get("foodNutrients", [])
 
-        alimento = {
-            "nome_alimento": produto.get("product_name","").strip(),
-            "categoria_alimento": produto.get("categories", "").split(","),
-            "pais": produto.get("countries", "").split(","),
-            "calorias_100g": nutriments.get("energy-kcal_100g"),
-            "proteinas_100g":    nutriments.get("proteins_100g"),
-            "gorduras_100g":     nutriments.get("fat_100g"),
-            "gordura_sat_100g":  nutriments.get("saturated-fat_100g"),
-            "carboidratos_100g": nutriments.get("carbohydrates_100g"),
-            "acucar_100g":       nutriments.get("sugars_100g"),
-            "sodio_100g":        nutriments.get("sodium_100g"),
-            "fibras_100g":       nutriments.get("fiber_100g"),
+        # transforma a lista de nutrientes em dicionário {nome: valor}
+        nutrientes = {
+            n.get("nutrientName"): n.get("value")
+            for n in nutrientes_raw
         }
-        if alimento["nome_alimento"] and any (v is not None for v in list(alimento.values())[3:0]):
-            resultado.append(alimento)
+
+        registro = {
+            "nome":      alimento.get("description", "").strip(),
+            "categoria": alimento.get("foodCategory", ""),
+            "pais":      "United States",
+        }
+
+        # aplica o mapeamento
+        for nome_api, nome_banco in mapa_nutrientes.items():
+            registro[nome_banco] = nutrientes.get(nome_api)
+
+        # ignora alimentos sem nome ou sem nenhum nutriente
+        if registro["nome"] and any(v is not None for v in list(registro.values())[3:]):
+            resultado.append(registro)
 
     return resultado
 
+
 def salvar_raw(dados: list, nome_arquivo: str) -> None:
     """
-    Salva os Dados Brutos em JSON na pasta data/raw.
+    Salva os dados brutos em JSON na pasta data/raw.
     """
-    caminho = Path("data/raw") / nome_arquivo
+    caminho = Path("../data/raw") / nome_arquivo
+    caminho.parent.mkdir(parents=True, exist_ok=True)
+
     with open(caminho, "w", encoding="utf-8") as f:
         json.dump(dados, f, ensure_ascii=False, indent=2)
-    print(f"{len(dados)}alimentos salvos em{caminho}")
+
+    print(f"{len(dados)} alimentos salvos em {caminho}")
