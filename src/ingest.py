@@ -5,6 +5,12 @@ import os
 from dotenv import load_dotenv
 
 
+import requests
+import json
+import os
+from pathlib import Path
+from dotenv import load_dotenv
+
 load_dotenv()
 
 API_KEY = os.getenv("FDC_API_KEY")
