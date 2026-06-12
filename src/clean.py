@@ -88,3 +88,27 @@ def exportar_csv(df: pd.DataFrame, nome_arquivo: str) -> None:
     caminho.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(caminho, index=False, encoding="utf-8-sig")
     print(f"CSV exportado em: {caminho}")
+
+def atualizar_banco(df: pd.DataFrame) -> None:
+    """
+    Substitui os dados da tabela alimentos no MySQL
+    pelos dados já traduzidos e limpos do DataFrame.
+    """
+    usuario  = os.getenv("DB_USER")
+    senha    = os.getenv("DB_PASSWORD")
+    host     = os.getenv("DB_HOST")
+    porta    = os.getenv("DB_PORT")
+    banco    = os.getenv("DB_NAME")
+
+    engine = create_engine(f"mysql+mysqlconnector://{usuario}:{senha}@{host}:{porta}/{banco}")
+
+    # substitui a tabela inteira pelos dados limpos e traduzidos
+    # if_exists="replace" recria a tabela com os novos dados
+    df.to_sql(
+        name="alimentos",
+        con=engine,
+        if_exists="replace",
+        index=False
+    )
+
+    print(f"Banco atualizado com {len(df)} registros traduzidos.")
