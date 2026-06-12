@@ -1,0 +1,411 @@
+﻿id,nome,categoria,pais,calorias_100g,proteinas_100g,gorduras_100g,gordura_sat_100g,carboidratos_100g,acucar_100g,sodio_100g,fibras_100g
+1,"Comida para bebé, legumes, vegetais de jardim, coados",Alimentos para bebês,United States,132.0,2.3,0.2,0.035,6.8,,31.0,1.5
+2,"Comida para bebé, legumes, mistura de legumes júnior",Alimentos para bebês,United States,36.0,1.4,0.4,0.079,8.2,,36.0,1.5
+3,"Comida para bebé, legumes, mistura de legumes coados",Alimentos para bebês,United States,36.0,1.0,0.5,0.089,8.25,,0.0,1.5
+4,Biryani com legumes,Pratos mistos de arroz,United States,109.0,1.93,3.2,1.705,17.91,,177.0,1.2
+5,Batatas fritas de vegetais,"Tortilha, milho e outras batatas fritas",United States,495.0,4.72,26.56,1.824,59.2,,329.0,7.8
+6,"Pão, vegetais",Pães de Levedura,United States,259.0,9.67,3.26,1.089,47.98,,532.0,1.8
+7,"Congee, com legumes",Pratos mistos de arroz,United States,38.0,1.12,0.12,0.027,7.88,,235.0,0.4
+8,"Fajita, vegetal",Outros pratos mistos mexicanos,United States,166.0,3.22,7.84,1.658,20.43,,343.0,2.0
+9,"Quesadilla, com legumes",Outros pratos mistos mexicanos,United States,253.0,8.14,11.32,4.585,29.18,,524.0,2.2
+10,"Sopa, legumes",Sopas à base de caldo,United States,27.0,0.84,0.45,0.064,5.08,,243.0,1.0
+11,"Ensopado, vegetal",Pratos de vegetais,United States,47.0,1.41,0.24,0.032,10.07,,296.0,2.1
+12,Caril de legumes,Pratos de vegetais,United States,86.0,1.6,5.27,1.256,8.81,,388.0,1.8
+13,Batido de vegetais,Smoothies e bebidas de grãos,United States,89.0,2.75,6.63,1.391,5.84,,38.0,2.8
+14,Tempurá de legumes,Legumes Fritos,United States,239.0,3.81,15.81,2.317,20.45,,12.0,1.6
+15,Legumes em conserva,"Azeitonas, picles, legumes em conserva",United States,46.0,0.94,0.21,0.058,10.18,,983.0,1.6
+17,Suco misto de vegetais,Suco de Vegetais,United States,28.0,0.72,0.16,0.034,6.3,,82.0,1.2
+18,"Pão, legumes, torrado",Pães de Levedura,United States,284.0,10.62,3.58,1.197,52.72,,584.0,2.0
+19,"Macarrão, legumes, cozido","Massa, Macarrão, Grãos Cozidos",United States,128.0,4.52,0.11,0.016,26.55,,99.0,4.3
+21,"Bacon, para usar com vegetais",Não incluído em uma categoria de alimentos,United States,468.0,33.92,35.09,11.964,1.7,,1684.0,0.0
+22,"Carne bovina, para acompanhar vegetais",Não incluído em uma categoria de alimentos,United States,191.0,32.41,6.82,2.8,0.0,,67.0,0.0
+23,"Queijo cottage, com legumes",Laticínios e Ovoprodutos,United States,95.0,10.9,4.2,2.65,3.0,,403.0,0.1
+25,"Queijo, processado, com legumes",Queijo,United States,356.0,14.14,31.7,18.248,3.48,,946.0,0.1
+26,"Frango, para acompanhar vegetais",Não incluído em uma categoria de alimentos,United States,164.0,26.79,6.36,1.579,0.0,,345.0,0.0
+27,Namasu de pepino e vegetais,"Salada de repolho, saladas sem alface",United States,56.0,0.47,0.18,0.026,12.22,,120.0,0.6
+28,Molho com carne e legumes,Volume de negócios e outros itens à base de grãos,United States,243.0,7.94,14.56,4.053,20.36,,635.0,1.3
+29,"Empanada, carne bovina, com legumes",Volume de negócios e outros itens à base de grãos,United States,291.0,7.19,16.0,5.655,29.91,,446.0,2.0
+30,"Empanada, frango, com legumes",Volume de negócios e outros itens à base de grãos,United States,283.0,7.35,15.09,5.228,29.91,,446.0,2.0
+31,Salada de gelatina com legumes,"Gelatinas, sorvetes, sorvetes",United States,61.0,1.47,0.02,0.005,14.02,,69.0,0.7
+32,"Molho, para usar com vegetais",Não incluído em uma categoria de alimentos,United States,57.0,0.31,1.05,0.256,11.24,,932.0,0.1
+33,"Presunto, para usar com legumes",Não incluído em uma categoria de alimentos,United States,117.0,17.99,4.39,1.424,1.57,,1193.0,0.0
+34,"Lasanha, sem carne, com legumes","Pratos Mistos De Massa, Exclui Macarrão E Queijo",United States,188.0,11.2,9.38,4.928,14.52,,384.0,1.2
+35,"Quesadilla, frango, com legumes",Outros pratos mistos mexicanos,United States,270.0,11.29,12.14,4.818,28.22,,592.0,2.1
+36,"Vegetais crus, NFS",Outros vegetais e combinações,United States,30.0,1.19,0.26,0.034,5.83,,53.0,2.0
+37,"Sambar, ensopado de legumes",Pratos de vegetais,United States,86.0,4.33,2.71,0.367,11.77,,207.0,4.0
+38,"Sopa, creme de vegetais",Sopas à base de creme,United States,78.0,1.41,4.72,2.495,7.83,,245.0,1.1
+39,"Sopa, vegetais, enlatada",Sopas à base de caldo,United States,38.0,1.12,0.4,0.053,7.62,,260.0,1.2
+40,"Sopa, legumes, com carne",Sopas à base de caldo,United States,44.0,3.36,1.6,0.481,4.04,,249.0,0.8
+41,"Rolo de sushi, vegetal","Rolinhos de ovo, bolinhos, sushi",United States,93.0,1.8,1.47,0.223,17.65,,361.0,1.4
+42,Caril de legumes com arroz,Pratos de vegetais,United States,103.0,2.03,3.27,0.784,16.48,,331.0,1.3
+43,"Molho de legumes, light","Molhos, molhos e outros molhos",United States,198.0,2.04,15.19,4.643,13.6,,602.0,0.3
+44,"Molho de legumes, normal","Molhos, molhos e outros molhos",United States,429.0,2.23,45.12,10.889,3.57,,713.0,0.3
+45,"Mistura de vegetais, seca",Não incluído em uma categoria de alimentos,United States,328.0,17.41,8.88,1.194,49.22,,368.0,18.5
+46,"Óleo vegetal, NFS",Molhos para Salada e Óleos Vegetais,United States,900.0,0.0,100.0,13.366,0.0,,0.0,0.0
+47,Sanduíche de legumes com trigo,Sanduíches/hambúrgueres de vegetais,United States,119.0,4.67,2.25,0.431,20.14,,370.0,2.7
+48,Sanduíche de legumes em branco,Sanduíches/hambúrgueres de vegetais,United States,120.0,3.94,2.11,0.468,21.53,,374.0,1.6
+49,Envoltório de sanduíche de legumes,Sanduíches/hambúrgueres de vegetais,United States,160.0,5.42,6.55,2.966,19.71,,528.0,1.8
+50,Legumes como ingrediente de curry,Não incluído em uma categoria de alimentos,United States,53.0,1.81,0.2,0.051,11.71,,20.0,2.2
+101,"Smoothie de frutas, com frutas inteiras e laticínios",Smoothies e bebidas de grãos,United States,66.0,2.32,1.1,0.588,11.98,,28.0,1.1
+102,"Smoothie de frutas, com frutas inteiras, sem laticínios",Smoothies e bebidas de grãos,United States,54.0,0.61,0.35,0.038,12.67,,2.0,1.5
+103,"Cobertura, fruta","Compotas, xaropes, coberturas",United States,254.0,0.2,0.1,0.005,66.3,,21.0,0.7
+104,Biscoito com frutas,"Biscoitos, Muffins, Pães Rápidos",United States,363.0,6.7,17.05,10.632,46.47,,884.0,2.7
+105,"Pão, fruta","Biscoitos, Muffins, Pães Rápidos",United States,374.0,6.01,18.1,2.65,47.34,,302.0,1.2
+106,Frutas cristalizadas,Frutas e sucos de frutas,United States,322.0,0.34,0.07,0.01,82.7,,98.0,1.6
+107,"Bolo de queijo, fruta",Bolos E Tortas,United States,387.0,4.8,23.88,12.935,38.23,,252.0,0.6
+108,"Salada de repolho, com frutas","Salada de repolho, saladas sem alface",United States,113.0,0.91,6.34,0.982,13.65,,222.0,2.1
+109,"Croissant, fruta","Donuts, Pãezinhos Doces, Doces",United States,396.0,7.75,19.72,10.943,47.04,,287.0,3.0
+110,fruta do dragão,Outras frutas e saladas de frutas,United States,68.0,0.68,0.21,0.052,16.24,,1.0,1.8
+111,"empanada, fruta",Bolos E Tortas,United States,260.0,2.67,11.51,3.714,36.96,,188.0,1.8
+112,"Frito, fruta","Donuts, Pãezinhos Doces, Doces",United States,403.0,6.3,25.59,5.292,37.29,,321.0,1.2
+113,Manteiga de frutas,"Compotas, xaropes, coberturas",United States,173.0,0.39,0.3,0.053,42.47,,15.0,1.5
+114,Molho de frutas,Molhos para Salada e Óleos Vegetais,United States,219.0,2.51,17.97,10.329,12.42,,31.0,0.1
+116,"Fruta, NFS",Outras frutas e saladas de frutas,United States,68.0,0.68,0.21,0.052,16.24,,1.0,1.8
+117,Fruta em conserva,Outras frutas e saladas de frutas,United States,63.0,0.56,0.24,0.032,15.32,,957.0,1.4
+118,"Muffin, fruta","Biscoitos, Muffins, Pães Rápidos",United States,375.0,4.49,16.07,2.844,53.0,,336.0,1.1
+119,"Panquecas, frutas","Panquecas, waffles, torradas francesas",United States,232.0,5.86,9.54,2.349,30.63,,395.0,2.4
+120,"Scone, com frutas","Biscoitos, Muffins, Pães Rápidos",United States,374.0,6.33,16.54,8.779,51.2,,404.0,1.5
+121,"Sopa, fruta",Sopas à base de caldo,United States,30.0,0.54,0.12,0.016,7.04,,8.0,0.8
+122,"Faturamento, frutas",Bolos E Tortas,United States,316.0,3.0,16.1,2.457,42.6,,333.0,2.6
+123,"waffle, fruta","Panquecas, waffles, torradas francesas",United States,307.0,6.94,14.92,3.265,36.25,,467.0,2.8
+124,"Ponche de frutas, feito com suco de frutas e refrigerante",Bebidas de frutas,United States,44.0,0.18,0.06,0.004,10.82,,4.0,0.1
+125,"Salada de frutas, exceto frutas cítricas, com marshmallows",Outras frutas e saladas de frutas,United States,251.0,1.78,19.48,2.687,17.54,,124.0,1.4
+126,"Salada de frutas, exceto frutas cítricas, com pudim",Outras frutas e saladas de frutas,United States,137.0,1.86,6.48,0.739,18.11,,40.0,1.4
+127,"Salada de frutas, incluindo frutas cítricas, com marshmallows",Outras frutas e saladas de frutas,United States,244.0,1.87,19.1,2.638,16.95,,122.0,1.7
+128,"Salada de frutas, incluindo frutas cítricas, com pudim",Outras frutas e saladas de frutas,United States,133.0,1.95,6.34,0.727,17.49,,39.0,1.8
+129,"Smoothie de frutas, com frutas inteiras, não lácteas",Smoothies e bebidas de grãos,United States,60.0,1.45,1.06,0.135,11.56,,23.0,1.1
+130,"Salada de frutas, exceto frutas cítricas, com chantilly",Outras frutas e saladas de frutas,United States,164.0,1.99,10.62,3.0,15.25,,3.0,1.6
+131,"Salada de frutas, incluindo frutas cítricas, com chantilly",Outras frutas e saladas de frutas,United States,158.0,2.08,10.37,2.936,14.61,,3.0,2.0
+132,"Smoothie de frutas, com frutas inteiras e laticínios, com adição de proteína",Smoothies e bebidas de grãos,United States,79.0,7.35,1.24,0.669,10.04,,40.0,1.1
+133,"Smoothie de frutas, com frutas inteiras, sem laticínios, com adição de proteína",Smoothies e bebidas de grãos,United States,76.0,6.23,0.44,0.092,12.2,,13.0,1.6
+134,"Secos, frutas, NFS",Frutas Secas,United States,298.0,2.28,0.62,0.104,78.62,,32.0,4.8
+135,"Mistura de frutas, congelada",Outras frutas e saladas de frutas,United States,48.0,0.69,0.23,0.035,11.29,,9.0,1.4
+136,"Salada de frutas frescas ou cruas, exceto frutas cítricas, sem molho",Outras frutas e saladas de frutas,United States,59.0,0.64,0.21,0.045,13.94,,4.0,1.5
+137,"Doces, couro de frutas",Doces sem chocolate,United States,371.0,0.1,3.0,0.672,85.8,,317.0,0.0
+138,"Salada de frutas, frescas ou cruas, inclusive frutas cítricas, sem molho",Outras frutas e saladas de frutas,United States,56.0,0.71,0.19,0.039,13.48,,4.0,1.7
+139,Bebida de suco de frutas,Bebidas de frutas,United States,10.0,0.0,0.0,0.0,2.5,,13.0,0.0
+140,Bebida com sabor de frutas,Bebidas de frutas,United States,64.0,0.0,0.0,0.0,16.03,,36.0,0.0
+141,"Pão, pita com frutas",Pães de Levedura,United States,279.0,8.16,1.05,0.154,59.51,,454.0,2.6
+142,"Bolo, bolo de café, frutas",Produtos Assados,United States,311.0,5.2,10.2,2.5,51.5,,385.0,2.5
+143,"Bolo, bolo de frutas",Bolos E Tortas,United States,324.0,2.9,9.1,1.048,61.6,,101.0,3.7
+144,"Doces, salgadinhos de frutas",Doces sem chocolate,United States,371.0,0.1,3.0,0.672,85.8,,317.0,0.0
+145,"Cereais, frutas crocantes","Cereal pronto para consumo, com alto teor de açúcar (>21,2G/100G)",United States,384.0,4.28,3.89,0.435,82.9,,542.0,0.3
+146,"Cereais, anéis de frutas","Cereal pronto para consumo, com alto teor de açúcar (>21,2G/100G)",United States,383.0,5.14,3.23,0.787,82.24,,504.0,5.4
+147,"Chuchu, fruta, cru",Legumes e produtos vegetais,United States,19.0,0.82,0.13,0.028,4.51,,2.0,1.7
+148,"Queijo, cottage, com frutas",Queijo cottage/ricota,United States,74.0,9.41,1.96,1.072,4.94,,273.0,0.2
+149,Crepe recheado com frutas,"Panquecas, waffles, torradas francesas",United States,188.0,4.57,7.12,1.778,26.55,,176.0,1.2
+150,"Pastelaria dinamarquesa, com fruta","Donuts, Pãezinhos Doces, Doces",United States,371.0,5.4,18.5,4.86,47.8,,445.0,1.9
+151,"Comida para bebé, legumes, vegetais de jardim, coados",Alimentos para bebês,United States,132.0,2.3,0.2,0.035,6.8,,31.0,1.5
+152,"Comida para bebé, legumes, mistura de legumes júnior",Alimentos para bebês,United States,36.0,1.4,0.4,0.079,8.2,,36.0,1.5
+153,"Comida para bebé, legumes, mistura de legumes coados",Alimentos para bebês,United States,36.0,1.0,0.5,0.089,8.25,,0.0,1.5
+154,Biryani com legumes,Pratos mistos de arroz,United States,109.0,1.93,3.2,1.705,17.91,,177.0,1.2
+155,Batatas fritas de vegetais,"Tortilha, milho e outras batatas fritas",United States,495.0,4.72,26.56,1.824,59.2,,329.0,7.8
+156,"Pão, vegetais",Pães de Levedura,United States,259.0,9.67,3.26,1.089,47.98,,532.0,1.8
+157,"Congee, com legumes",Pratos mistos de arroz,United States,38.0,1.12,0.12,0.027,7.88,,235.0,0.4
+158,"Fajita, vegetal",Outros pratos mistos mexicanos,United States,166.0,3.22,7.84,1.658,20.43,,343.0,2.0
+159,"Quesadilla, com legumes",Outros pratos mistos mexicanos,United States,253.0,8.14,11.32,4.585,29.18,,524.0,2.2
+160,"Sopa, legumes",Sopas à base de caldo,United States,27.0,0.84,0.45,0.064,5.08,,243.0,1.0
+161,"Ensopado, vegetal",Pratos de vegetais,United States,47.0,1.41,0.24,0.032,10.07,,296.0,2.1
+162,Caril de legumes,Pratos de vegetais,United States,86.0,1.6,5.27,1.256,8.81,,388.0,1.8
+163,Batido de vegetais,Smoothies e bebidas de grãos,United States,89.0,2.75,6.63,1.391,5.84,,38.0,2.8
+164,Tempurá de legumes,Legumes Fritos,United States,239.0,3.81,15.81,2.317,20.45,,12.0,1.6
+165,Legumes em conserva,"Azeitonas, picles, legumes em conserva",United States,46.0,0.94,0.21,0.058,10.18,,983.0,1.6
+167,Suco misto de vegetais,Suco de Vegetais,United States,28.0,0.72,0.16,0.034,6.3,,82.0,1.2
+168,"Pão, legumes, torrado",Pães de Levedura,United States,284.0,10.62,3.58,1.197,52.72,,584.0,2.0
+169,"Macarrão, legumes, cozido","Massa, Macarrão, Grãos Cozidos",United States,128.0,4.52,0.11,0.016,26.55,,99.0,4.3
+171,"Bacon, para usar com vegetais",Não incluído em uma categoria de alimentos,United States,468.0,33.92,35.09,11.964,1.7,,1684.0,0.0
+172,"Carne bovina, para acompanhar vegetais",Não incluído em uma categoria de alimentos,United States,191.0,32.41,6.82,2.8,0.0,,67.0,0.0
+173,"Queijo cottage, com legumes",Laticínios e Ovoprodutos,United States,95.0,10.9,4.2,2.65,3.0,,403.0,0.1
+174,"Queijo cottage, com legumes",Queijo cottage/ricota,United States,79.0,9.78,1.98,1.076,5.63,,278.0,0.7
+175,"Queijo, processado, com legumes",Queijo,United States,356.0,14.14,31.7,18.248,3.48,,946.0,0.1
+176,"Frango, para acompanhar vegetais",Não incluído em uma categoria de alimentos,United States,164.0,26.79,6.36,1.579,0.0,,345.0,0.0
+177,Namasu de pepino e vegetais,"Salada de repolho, saladas sem alface",United States,56.0,0.47,0.18,0.026,12.22,,120.0,0.6
+178,Molho com carne e legumes,Volume de negócios e outros itens à base de grãos,United States,243.0,7.94,14.56,4.053,20.36,,635.0,1.3
+179,"Empanada, carne bovina, com legumes",Volume de negócios e outros itens à base de grãos,United States,291.0,7.19,16.0,5.655,29.91,,446.0,2.0
+180,"Empanada, frango, com legumes",Volume de negócios e outros itens à base de grãos,United States,283.0,7.35,15.09,5.228,29.91,,446.0,2.0
+181,Salada de gelatina com legumes,"Gelatinas, sorvetes, sorvetes",United States,61.0,1.47,0.02,0.005,14.02,,69.0,0.7
+182,"Molho, para usar com vegetais",Não incluído em uma categoria de alimentos,United States,57.0,0.31,1.05,0.256,11.24,,932.0,0.1
+183,"Presunto, para usar com legumes",Não incluído em uma categoria de alimentos,United States,117.0,17.99,4.39,1.424,1.57,,1193.0,0.0
+184,"Lasanha, sem carne, com legumes","Pratos Mistos De Massa, Exclui Macarrão E Queijo",United States,188.0,11.2,9.38,4.928,14.52,,384.0,1.2
+185,"Quesadilla, frango, com legumes",Outros pratos mistos mexicanos,United States,270.0,11.29,12.14,4.818,28.22,,592.0,2.1
+186,"Vegetais crus, NFS",Outros vegetais e combinações,United States,30.0,1.19,0.26,0.034,5.83,,53.0,2.0
+187,"Sambar, ensopado de legumes",Pratos de vegetais,United States,86.0,4.33,2.71,0.367,11.77,,207.0,4.0
+188,"Sopa, creme de vegetais",Sopas à base de creme,United States,78.0,1.41,4.72,2.495,7.83,,245.0,1.1
+189,"Sopa, vegetais, enlatada",Sopas à base de caldo,United States,38.0,1.12,0.4,0.053,7.62,,260.0,1.2
+190,"Sopa, legumes, com carne",Sopas à base de caldo,United States,44.0,3.36,1.6,0.481,4.04,,249.0,0.8
+191,"Rolo de sushi, vegetal","Rolinhos de ovo, bolinhos, sushi",United States,93.0,1.8,1.47,0.223,17.65,,361.0,1.4
+192,Caril de legumes com arroz,Pratos de vegetais,United States,103.0,2.03,3.27,0.784,16.48,,331.0,1.3
+193,"Molho de legumes, light","Molhos, molhos e outros molhos",United States,198.0,2.04,15.19,4.643,13.6,,602.0,0.3
+194,"Molho de legumes, normal","Molhos, molhos e outros molhos",United States,429.0,2.23,45.12,10.889,3.57,,713.0,0.3
+195,"Mistura de vegetais, seca",Não incluído em uma categoria de alimentos,United States,328.0,17.41,8.88,1.194,49.22,,368.0,18.5
+196,"Óleo vegetal, NFS",Molhos para Salada e Óleos Vegetais,United States,900.0,0.0,100.0,13.366,0.0,,0.0,0.0
+197,Sanduíche de legumes com trigo,Sanduíches/hambúrgueres de vegetais,United States,119.0,4.67,2.25,0.431,20.14,,370.0,2.7
+198,Sanduíche de legumes em branco,Sanduíches/hambúrgueres de vegetais,United States,120.0,3.94,2.11,0.468,21.53,,374.0,1.6
+199,Envoltório de sanduíche de legumes,Sanduíches/hambúrgueres de vegetais,United States,160.0,5.42,6.55,2.966,19.71,,528.0,1.8
+200,Legumes como ingrediente de curry,Não incluído em uma categoria de alimentos,United States,53.0,1.81,0.2,0.051,11.71,,20.0,2.2
+202,"Pão, rico em proteínas, torrado",Pães de Levedura,United States,269.0,13.3,2.42,0.365,48.13,,444.0,3.3
+203,"Pão, proteína (inclui glúten)",Produtos Assados,United States,245.0,12.1,2.2,0.332,43.8,,404.0,3.0
+204,"Proteína vegetal texturizada, seca",Produtos alternativos à soja e à carne,United States,366.0,51.1,3.33,0.136,32.9,,2.0,17.5
+205,"Mistura nutricional em pó, proteína, NFS",Proteínas e pós nutricionais,United States,352.0,78.13,1.56,0.781,6.25,,156.0,3.1
+207,"Bebidas, Proteína em pó à base de soro de leite",Bebidas,United States,352.0,78.1,1.56,0.781,6.25,,156.0,3.1
+209,"Pão, proteína (inclui glúten), torrado",Produtos Assados,United States,270.0,13.2,2.4,0.364,48.1,,444.0,3.3
+210,Smoothie de frutas e vegetais com adição de proteína,Smoothies e bebidas de grãos,United States,86.0,7.49,0.78,0.338,12.24,,36.0,1.1
+212,"Mistura nutricional em pó, proteína, light, NFS",Proteínas e pós nutricionais,United States,396.0,50.0,12.0,1.087,22.0,,250.0,2.0
+213,"Mistura nutricional em pó, rica em proteínas, NFS",Proteínas e pós nutricionais,United States,392.0,53.57,10.71,0.0,20.38,,1214.0,0.0
+214,"Mistura nutricional em pó, rica em proteínas (Herbalife)",Proteínas e pós nutricionais,United States,392.0,53.57,10.71,0.0,20.38,,1214.0,0.0
+216,"Bebidas, ABBOTT, proteína de soro de leite em pó EAS",Bebidas,United States,385.0,66.7,5.13,2.56,18.0,,385.0,0.0
+218,Barra nutricional (Snickers Marathon Protein Bar),Barras Nutricionais,United States,415.0,25.0,12.5,6.25,50.5,,238.0,12.5
+219,"Concentrado de proteína de soja, produzido por lavagem ácida",Leguminosas e produtos leguminosos,United States,328.0,63.6,0.46,0.052,25.4,,900.0,5.5
+220,"Concentrado de proteína de soja, produzido por extração de álcool",Leguminosas e produtos leguminosos,United States,328.0,63.6,0.46,0.052,25.4,,3.0,5.5
+221,"Mistura nutricional em pó, proteína, à base de soja, NFS",Proteínas e pós nutricionais,United States,388.0,55.56,5.56,1.111,28.89,,733.0,6.7
+222,Mistura nutricional em pó (EAS Proteína de Soja em Pó),Proteínas e pós nutricionais,United States,405.0,47.62,3.57,0.0,43.94,,452.0,0.0
+223,Mistura nutricional em pó (EAS Whey Protein Powder),Proteínas e pós nutricionais,United States,385.0,66.67,5.13,2.564,17.95,,385.0,0.0
+224,"Mistura nutricional em pó, rica em proteínas (Slim Fast)",Proteínas e pós nutricionais,United States,433.0,27.87,13.46,1.333,50.0,,495.0,18.2
+225,"Comida para bebé, cereal, rico em proteínas, preparada com leite integral",Alimentos para bebês,United States,111.0,8.7,3.8,0.781,11.6,,49.0,1.8
+226,"Comida para bebé, cereal, rico em proteínas, com maçã e laranja, seca",Alimentos para bebês,United States,374.0,25.4,6.5,0.96,57.6,,104.0,7.1
+228,"Smoothie de frutas e vegetais, não lácteos, com adição de proteína",Smoothies e bebidas de grãos,United States,83.0,7.09,0.69,0.141,11.92,,38.0,1.2
+229,"Smoothie de frutas, com frutas inteiras e laticínios, com adição de proteína",Smoothies e bebidas de grãos,United States,79.0,7.35,1.24,0.669,10.04,,40.0,1.1
+230,"Smoothie de frutas, com frutas inteiras, sem laticínios, com adição de proteína",Smoothies e bebidas de grãos,United States,76.0,6.23,0.44,0.092,12.2,,13.0,1.6
+231,"Substituto de carne, à base de proteínas de cereais e vegetais, frito",Produtos alternativos à soja e à carne,United States,359.0,12.8,7.23,1.019,61.25,,282.0,8.9
+233,Molho de soja feito de proteína vegetal hidrolisada,Leguminosas e produtos leguminosos,United States,60.0,7.0,0.51,0.04,7.84,,6820.0,0.5
+234,"Substituto de creme, líquido, com óleo vegetal hidrogenado e proteína de soja",Laticínios e Ovoprodutos,United States,136.0,1.0,9.97,1.94,11.4,,67.0,0.0
+235,Barra nutricional (South Beach Living High Protein Bar),Barras Nutricionais,United States,412.0,30.34,15.17,3.384,38.4,,436.0,7.3
+236,"Bebida nutricional ou shake, rico em proteínas, pronto para beber, NFS",Bebidas Nutricionais,United States,61.0,6.59,3.38,0.508,0.85,,72.0,0.4
+237,"Suplemento proteico à base de leite, Muscle Milk Light, pó",Laticínios e Ovoprodutos,United States,396.0,50.0,12.0,1.09,22.0,,250.0,2.0
+238,"Espaguete, enriquecido com proteínas, cozido, enriquecido (n x 6,25)",Grãos De Cereais E Massas,United States,164.0,8.86,0.21,0.032,30.9,,5.0,2.0
+239,"Espaguete, fortificado com proteínas, seco, enriquecido (n x 6,25)",Grãos De Cereais E Massas,United States,374.0,21.8,2.23,0.328,65.6,,8.0,2.4
+241,"Farinha de trigo, branca (industrial), 10% de proteína, branqueada, não enriquecida",Grãos De Cereais E Massas,United States,366.0,9.71,1.48,0.302,76.2,,2.0,2.4
+243,"Farinha de trigo, branca (industrial), 11,5% de proteína, branqueada, enriquecida",Grãos De Cereais E Massas,United States,363.0,11.5,1.45,0.268,73.8,,2.0,2.4
+245,"Farinha de trigo, branca (industrial), 11,5% de proteína, crua, enriquecida",Grãos De Cereais E Massas,United States,363.0,11.5,1.45,0.268,73.8,,2.0,2.4
+247,"Farinha de trigo, branca (industrial), 13% de proteína, branqueada, não enriquecida",Grãos De Cereais E Massas,United States,362.0,13.1,1.38,0.189,72.2,,2.0,2.4
+249,LATICÍNIO,Leite,United States,62.0,3.33,3.33,2.08,4.58,,46.0,0.0
+250,"Sobremesa congelada, não láctea",Produtos alternativos à soja e à carne,United States,159.0,0.87,9.27,7.041,18.24,,39.0,0.1
+251,"Smoothie de frutas e vegetais, sem laticínios",Smoothies e bebidas de grãos,United States,63.0,1.09,0.37,0.059,13.78,,19.0,1.0
+252,"Smoothie de frutas e vegetais, com laticínios",Smoothies e bebidas de grãos,United States,64.0,1.59,0.72,0.301,12.74,,26.0,1.0
+253,"Leite não lácteo, NFS",Leite Vegetal,United States,31.0,1.14,1.6,0.159,3.04,,51.0,0.1
+254,"WENDY'S, Sobremesa Láctea Gelada",Fast Foods,United States,552.0,3.49,2.6,1.64,23.6,,98.0,3.3
+255,"Bebida de suco de smoothie de frutas, com laticínios",Smoothies e bebidas de grãos,United States,65.0,0.86,0.14,0.0,15.05,,14.0,0.9
+256,"Café, Cappuccino, com leite desnatado",Café,United States,17.0,0.6,0.84,0.096,1.82,,29.0,0.1
+257,"Café, Latte, com leite desnatado",Café,United States,28.0,0.97,1.36,0.148,2.81,,44.0,0.1
+258,"Smoothie de frutas e vegetais, não lácteos",Smoothies e bebidas de grãos,United States,60.0,1.16,0.61,0.087,12.39,,28.0,1.0
+259,"Suco de frutas, sem laticínios",Smoothies e bebidas de grãos,United States,51.0,0.6,0.24,0.031,11.88,,2.0,1.0
+260,"Smoothie de frutas, com frutas inteiras e laticínios",Smoothies e bebidas de grãos,United States,66.0,2.32,1.1,0.588,11.98,,28.0,1.1
+261,"Smoothie de frutas, com frutas inteiras, sem laticínios",Smoothies e bebidas de grãos,United States,54.0,0.61,0.35,0.038,12.67,,2.0,1.5
+262,"Café, Café Mocha, com leite desnatado",Café,United States,50.0,0.88,1.24,0.134,8.76,,54.0,0.1
+263,"Café, Cappuccino, descafeinado, com leite desnatado",Café,United States,17.0,0.6,0.85,0.096,1.83,,29.0,0.1
+264,"Café, Iced Latte, com leite desnatado",Café,United States,24.0,1.36,0.79,0.122,2.83,,28.0,0.1
+265,"Café, Latte, descafeinado, com leite desnatado",Café,United States,28.0,0.97,1.37,0.148,2.82,,45.0,0.1
+266,"Café, Latte, com leite desnatado, aromatizado",Café,United States,40.0,0.94,1.33,0.143,5.99,,43.0,0.1
+267,"Bebida de café congelado, com leite não lácteo",Café,United States,60.0,0.54,0.8,0.087,12.53,,26.0,0.0
+268,"Smoothie de frutas, com frutas inteiras, não lácteas",Smoothies e bebidas de grãos,United States,60.0,1.45,1.06,0.135,11.56,,23.0,1.1
+269,"Leite com chocolate, Nesquik, feito com leite não lácteo",Leite Vegetal,United States,54.0,1.35,1.64,0.289,8.41,,56.0,0.4
+270,"Café, Café Mocha, descafeinado, com leite desnatado",Café,United States,50.0,0.88,1.24,0.134,8.8,,54.0,0.1
+271,"Café, Iced Cafe Mocha, com leite desnatado",Café,United States,42.0,0.55,0.78,0.089,8.07,,41.0,0.0
+272,"Café, Iced Latte, descafeinado, com leite desnatado",Café,United States,18.0,0.61,0.86,0.098,1.86,,30.0,0.1
+273,"Café, Iced Latte, com leite desnatado, aromatizado",Café,United States,31.0,0.59,0.84,0.095,5.16,,28.0,0.0
+274,"Café, Latte, descafeinado, com leite desnatado, aromatizado",Café,United States,40.0,0.94,1.33,0.143,6.01,,43.0,0.1
+275,"Bebida de café congelada, descafeinada, com leite não lácteo",Café,United States,70.0,1.58,1.0,0.152,13.61,,18.0,0.0
+276,"Bebida de café mocha congelado, com leite não lácteo",Café,United States,58.0,0.52,0.75,0.085,12.22,,39.0,0.0
+277,"Smoothie de frutas e vegetais, não lácteos, com adição de proteína",Smoothies e bebidas de grãos,United States,83.0,7.09,0.69,0.141,11.92,,38.0,1.2
+278,"Smoothie de frutas, com frutas inteiras e laticínios, com adição de proteína",Smoothies e bebidas de grãos,United States,79.0,7.35,1.24,0.669,10.04,,40.0,1.1
+279,"Smoothie de frutas, com frutas inteiras, sem laticínios, com adição de proteína",Smoothies e bebidas de grãos,United States,76.0,6.23,0.44,0.092,12.2,,13.0,1.6
+280,"Chocolate quente/cacau, feito com leite desnatado",Leite Vegetal,United States,76.0,0.93,1.3,0.129,15.02,,69.0,0.1
+282,"Café, Iced Cafe Mocha, descafeinado, com leite desnatado",Café,United States,42.0,0.55,0.78,0.089,8.1,,41.0,0.0
+283,"Café, Iced Latte, descafeinado, com leite desnatado, aromatizado",Café,United States,31.0,0.59,0.84,0.095,5.18,,29.0,0.1
+284,"Bebida de café congelada, com leite desnatado e chantilly",Café,United States,75.0,0.62,2.64,1.163,12.06,,26.0,0.0
+285,"Bebida de café mocha congelado, descafeinado, com leite não lácteo",Café,United States,58.0,0.52,0.76,0.085,12.28,,39.0,0.0
+286,"Bebidas, café, instantâneo, baunilha, adoçado, descafeinado, com creme não lácteo",Bebidas,United States,465.0,0.0,13.3,13.3,86.3,,333.0,0.0
+287,"Bebida de café congelada, descafeinada, com leite desnatado e chantilly",Café,United States,80.0,1.26,2.59,1.188,12.94,,25.0,0.1
+288,"Bebida de café mocha congelado, com leite desnatado e chantilly",Café,United States,73.0,0.6,2.54,1.129,11.79,,38.0,0.0
+289,"Chocolate quente/cacau, mistura seca, feito com leite desnatado",Leite Vegetal,United States,81.0,1.88,1.92,0.458,13.9,,112.0,0.6
+290,"Chocolate quente/cacau, açúcar reduzido, feito com leite desnatado",Leite Vegetal,United States,54.0,1.19,1.48,0.129,8.92,,60.0,0.1
+291,"Aveia, instantânea, simples, feita com leite desnatado, com adição de gordura",Aveia,United States,113.0,3.09,4.98,1.433,15.12,,99.0,1.9
+292,"Aveia, instantânea, simples, feita com leite desnatado, sem adição de gordura",Aveia,United States,94.0,3.18,2.6,0.384,15.62,,83.0,2.0
+293,"Aveia, normal ou rápida, feita com leite desnatado, com adição de gordura",Aveia,United States,107.0,3.31,4.21,1.01,14.18,,127.0,1.8
+294,"Aveia, normal ou rápida, feita com leite desnatado, sem adição de gordura",Aveia,United States,95.0,3.35,2.71,0.346,14.42,,117.0,1.8
+295,"Bebida de café mocha congelado, descafeinado, com leite desnatado e chantilly",Café,United States,73.0,0.6,2.56,1.134,11.84,,38.0,0.0
+297,"Óleo, industrial, soja (parcialmente hidrogenado), multiuso para sabor de manteiga não láctea",Gorduras e óleos,United States,884.0,0.0,100.0,18.1,0.0,,0.0,0.0
+299,Grão de centeio,Grãos De Cereais E Massas,United States,338.0,10.3,1.63,0.197,75.9,,2.0,15.1
+300,Grão de sorgo,Grãos De Cereais E Massas,United States,329.0,10.6,3.46,0.61,72.1,,2.0,6.7
+302,Pão multigrãos torrado (inclui grãos integrais),Produtos Assados,United States,288.0,14.5,4.6,0.948,47.1,,414.0,8.1
+303,"Grão de amaranto, cozido",Grãos De Cereais E Massas,United States,102.0,3.8,1.58,0.781,18.7,,6.0,2.1
+304,"Grão de amaranto, cru",Grãos De Cereais E Massas,United States,371.0,13.6,7.02,1.46,65.2,,4.0,6.7
+305,"Trigo sarraceno, grão integral",Grãos De Cereais E Massas,United States,239.0,11.1,3.04,0.781,71.1,,0.0,4.05
+306,"Grão de milho, branco",Grãos De Cereais E Massas,United States,365.0,9.42,4.74,0.667,74.3,,35.0,1.8
+307,"Grão de milho, amarelo",Grãos De Cereais E Massas,United States,365.0,9.42,4.74,0.667,74.3,,35.0,7.3
+308,"Painço, grão integral",Grãos De Cereais E Massas,United States,239.0,10.0,4.19,0.781,74.4,,0.0,2.62
+309,"Muffin, grão integral","Biscoitos, Muffins, Pães Rápidos",United States,372.0,6.92,18.03,2.975,45.7,,389.0,1.8
+310,"Panquecas, grãos inteiros","Panquecas, waffles, torradas francesas",United States,273.0,7.86,12.29,3.001,32.9,,722.0,3.2
+311,"Waffle, grão integral","Panquecas, waffles, torradas francesas",United States,364.0,9.23,19.21,4.162,38.61,,847.0,3.8
+312,"Biscoitos, queijo, grãos integrais","Biscoitos, exclui salgadinhos",United States,412.0,9.62,16.03,3.206,57.29,,706.0,6.4
+314,"Fubá, integral, amarelo",Grãos De Cereais E Massas,United States,362.0,8.12,3.59,0.505,76.9,,35.0,7.3
+315,"Einkorn, grão, seco, cru",Grãos De Cereais E Massas,United States,239.0,15.1,3.81,0.781,68.7,,0.0,8.91
+316,"Farinha, aveia, grãos integrais",Grãos De Cereais E Massas,United States,239.0,13.2,6.31,0.781,69.9,,3.62,10.5
+317,"Farinha, espelta, grão integral",Grãos De Cereais E Massas,United States,239.0,14.5,2.54,0.781,70.7,,0.0,9.34
+318,"Fonio, grão, seco, cru",Grãos De Cereais E Massas,United States,239.0,7.17,1.69,0.781,81.3,,2.97,2.2
+319,"Khorasan, grão, seco, cru",Grãos De Cereais E Massas,United States,239.0,14.8,2.8,0.781,71.8,,3.94,10.5
+321,"Farinha de triticale, integral",Grãos De Cereais E Massas,United States,338.0,13.2,1.81,0.318,73.1,,2.0,14.6
+322,"Fruta para bebês, com grãos",Comida para Bebê: Misturas,United States,78.0,1.07,0.41,0.082,17.96,,2.0,2.0
+323,"Legumes para bebês, com grãos",Comida para Bebê: Misturas,United States,58.0,1.84,0.5,0.108,12.01,,31.0,1.9
+324,"Bagel, grão integral branco",Bagels e muffins ingleses,United States,250.0,10.2,1.53,0.0,48.89,,439.0,4.1
+326,Pão integral branco,Pães de Levedura,United States,238.0,10.66,2.15,0.63,43.91,,450.0,9.2
+328,"Torrada francesa, grão integral","Panquecas, waffles, torradas francesas",United States,271.0,11.34,11.57,3.202,30.44,,297.0,2.7
+329,"Macarrão integral, cozido","Massa, Macarrão, Grãos Cozidos",United States,148.0,5.96,1.7,0.242,29.91,,210.0,3.9
+330,Panquecas integrais congeladas,"Panquecas, waffles, torradas francesas",United States,232.0,5.54,6.75,1.146,38.55,,447.0,2.3
+331,"Macarrão integral, cozido","Massa, Macarrão, Grãos Cozidos",United States,148.0,5.95,1.7,0.242,29.89,,235.0,3.9
+332,"Rolo, grão integral branco",Rolinhos e pães,United States,255.0,9.3,3.49,1.163,46.5,,512.0,2.3
+333,"Waffle, integral, congelado","Panquecas, waffles, torradas francesas",United States,289.0,6.78,8.39,1.347,46.7,,529.0,4.1
+335,"Farinha de milho, integral, amarela",Grãos De Cereais E Massas,United States,361.0,6.93,3.86,0.543,76.8,,5.0,7.3
+336,"Aveia, grão integral, corte de aço",Grãos De Cereais E Massas,United States,239.0,12.5,5.8,0.781,69.8,,0.311,1.8
+337,"Massa seca, grãos integrais, espaguete",Grãos De Cereais E Massas,United States,239.0,7.63,3.455,0.781,18.7,,4.58,1.8
+338,"Frutas e legumes para bebês, com grãos",Comida para Bebê: Misturas,United States,69.0,1.48,0.48,0.1,15.31,,16.0,2.0
+339,"Biscoitos, grãos mistos, massa refrigerada",Produtos Assados,United States,263.0,6.1,5.6,1.37,47.4,,670.0,1.8
+340,"Pão integral branco, torrado",Pães de Levedura,United States,262.0,11.71,2.36,0.692,48.25,,495.0,10.1
+341,"Muffins ingleses, grãos integrais brancos",Produtos Assados,United States,245.0,7.02,1.75,0.0,50.2,,386.0,3.5
+342,Macarrão ou macarrão com queijo integral,Macarrão E Queijo,United States,219.0,8.77,10.88,5.183,22.7,,360.0,2.2
+343,"Muffin, inglês, integral branco",Bagels e muffins ingleses,United States,223.0,8.7,2.0,0.287,44.8,,353.0,4.6
+344,"Panquecas, grãos integrais, gordura reduzida","Panquecas, waffles, torradas francesas",United States,256.0,8.04,9.89,2.711,33.65,,738.0,3.3
+345,"Pãezinhos, hambúrguer ou cachorro-quente, grãos mistos",Produtos Assados,United States,263.0,9.6,6.0,1.39,44.6,,458.0,3.8
+346,"Waffle, grãos integrais, frutas, congelados","Panquecas, waffles, torradas francesas",United States,278.0,6.48,8.02,1.285,45.06,,504.0,4.0
+347,"Waffle, grãos integrais, gordura reduzida","Panquecas, waffles, torradas francesas",United States,257.0,7.14,3.57,0.714,49.16,,557.0,4.3
+348,"Aveia, grão integral, enrolada, à moda antiga",Grãos De Cereais E Massas,United States,239.0,13.5,5.89,0.781,68.7,,0.668,1.8
+349,"Nozes, castanhas de caju, cruas",Produtos de nozes e sementes,United States,239.0,17.4,38.9,0.781,36.3,,4.76,4.1
+350,"Nozes, castanhas de caju, cruas",Produtos de nozes e sementes,United States,553.0,18.2,43.8,7.78,30.2,,12.0,3.3
+351,"Nozes, nozes de ginkgo, enlatadas",Produtos de nozes e sementes,United States,111.0,2.29,1.62,0.309,22.1,,307.0,9.3
+352,"Nozes, nozes de ginkgo, secas",Produtos de nozes e sementes,United States,348.0,10.4,2.0,0.381,72.4,,13.0,1.8
+353,"Nozes, nozes de ginkgo, cruas",Produtos de nozes e sementes,United States,182.0,4.32,1.68,0.319,37.6,,7.0,1.8
+354,"Nozes, nozes de macadâmia, cruas",Produtos de nozes e sementes,United States,718.0,7.91,75.8,12.1,13.8,,5.0,8.6
+355,"Nozes, nozes de macadâmia, cruas",Produtos de nozes e sementes,United States,239.0,7.79,64.9,0.781,24.1,,0.0,7.56
+356,"Nozes, pinhões, secos",Produtos de nozes e sementes,United States,673.0,13.7,68.4,4.9,13.1,,2.0,3.7
+357,"Nozes, pinhões, crus",Produtos de nozes e sementes,United States,239.0,15.7,61.3,0.781,18.6,,0.0,3.94
+359,"Nozes, pistache, cru",Produtos de nozes e sementes,United States,239.0,20.5,45.0,0.781,27.7,,0.0,6.97
+360,"Nozes, pinhões, pinhão, secos",Produtos de nozes e sementes,United States,629.0,11.6,61.0,9.38,19.3,,72.0,10.7
+361,Castanha do Pará,Nozes e sementes,United States,659.0,14.32,67.1,16.134,11.74,,3.0,7.5
+362,"Pão, noz","Biscoitos, Muffins, Pães Rápidos",United States,403.0,6.59,20.1,2.933,49.66,,336.0,1.2
+363,Nozes de milho,"Tortilha, milho e outras batatas fritas",United States,446.0,8.5,15.64,2.43,71.86,,564.0,6.9
+364,Nozes de macadâmia,Nozes e sementes,United States,716.0,7.79,76.08,11.947,12.83,,353.0,8.0
+365,"Nozes, amêndoas",Produtos de nozes e sementes,United States,579.0,21.2,49.9,3.8,21.6,,1.0,12.5
+366,"Nozes, NFS",Nozes e sementes,United States,610.0,19.59,53.82,7.591,20.9,,313.0,7.4
+367,"Nozes, nozes",Produtos de nozes e sementes,United States,691.0,9.17,72.0,6.18,13.9,,0.0,9.6
+368,Pinhões,Nozes e sementes,United States,673.0,13.69,68.37,4.899,13.08,,2.0,3.7
+369,Nozes de soja,"Feijão, Ervilha, Leguminosas",United States,469.0,38.55,25.4,3.674,30.22,,163.0,17.7
+371,"Nozes, castanhas de caju, torradas em óleo, com adição de sal",Produtos de nozes e sementes,United States,581.0,16.8,47.8,8.48,30.2,,308.0,3.3
+372,"Nozes, nozes de macadâmia, torradas a seco, com adição de sal",Produtos de nozes e sementes,United States,716.0,7.79,76.1,11.9,12.8,,353.0,8.0
+374,"Cobertura, nozes e xarope","Compotas, xaropes, coberturas",United States,448.0,4.5,22.0,1.96,58.08,,42.0,2.3
+375,"Biscoitos, arroz e nozes","Biscoitos, exclui salgadinhos",United States,430.0,10.78,8.85,0.345,77.41,,360.0,0.8
+376,"Nozes mistas, NFS",Nozes e sementes,United States,610.0,19.59,53.82,7.591,20.9,,313.0,7.4
+377,"Nozes mistas, não torradas",Nozes e sementes,United States,616.0,16.97,54.56,7.039,22.88,,7.0,7.2
+378,"Pistache, NFS",Nozes e sementes,United States,572.0,21.05,45.82,5.645,28.28,,6.0,10.3
+379,"Pistache, salgado",Nozes e sementes,United States,576.0,20.22,46.98,5.818,27.16,,389.0,9.9
+380,Pistache sem sal,Nozes e sementes,United States,582.0,20.42,47.44,5.877,27.43,,6.0,10.0
+381,Mistura de trilha com nozes,Nozes e sementes,United States,604.0,20.06,52.98,7.283,21.07,,252.0,7.9
+382,"Doces, nougat com nozes",Doces sem chocolate,United States,444.0,8.38,13.34,3.236,72.64,,132.0,3.6
+383,Doce de chocolate com nozes,Doces contendo chocolate,United States,545.0,10.99,33.66,16.352,51.77,,64.0,4.4
+384,"Nozes, bolotas, secas",Produtos de nozes e sementes,United States,509.0,8.1,31.4,4.08,53.7,,0.0,1.8
+385,"Nozes, bolotas, cruas",Produtos de nozes e sementes,United States,387.0,6.15,23.9,3.1,40.8,,0.0,1.8
+387,"Nozes, amêndoas, escaldadas",Produtos de nozes e sementes,United States,590.0,21.4,52.5,3.95,18.7,,19.0,9.9
+388,"Nozes, faia, secas",Produtos de nozes e sementes,United States,576.0,6.2,50.0,5.72,33.5,,38.0,1.8
+389,"Nozes, castanhas-do-pará, cruas",Produtos de nozes e sementes,United States,239.0,15.0,57.4,0.781,21.6,,0.0,5.98
+390,"Nozes, nozes, secas",Produtos de nozes e sementes,United States,612.0,24.9,57.0,1.31,12.0,,1.0,4.7
+392,"Nozes, nozes, secas",Produtos de nozes e sementes,United States,657.0,12.7,64.4,7.04,18.2,,1.0,6.4
+393,"Nozes, pilinuts, secos",Produtos de nozes e sementes,United States,719.0,10.8,79.6,31.2,3.98,,3.0,1.8
+395,"Nozes, nozes, glaceadas",Produtos de nozes e sementes,United States,500.0,8.28,35.7,3.57,47.6,,446.0,3.6
+396,Manteiga de soja,Produtos alternativos à soja e à carne,United States,613.0,23.02,50.01,7.382,23.0,,290.0,10.6
+397,"Coberturas, nozes em calda",Doces,United States,448.0,4.5,22.0,1.96,58.1,,42.0,2.3
+400,Caldo de peixe,"Sopas, molhos e molhos",United States,67.0,2.0,0.6,0.133,0.4,,200.0,0.0
+401,Caril de peixe,Pratos mistos de frutos do mar,United States,93.0,4.94,5.42,1.292,6.65,,351.0,1.4
+402,Molho de peixe,Condimentos à Base de Soja,United States,35.0,5.06,0.01,0.003,3.64,,7851.0,0.0
+403,"Peixe, anchova",Peixe,United States,210.0,28.89,9.71,2.203,0.0,,3668.0,0.0
+404,Peixe enlatado,Peixe,United States,156.0,23.19,6.3,1.857,0.0,,379.0,0.0
+405,"Peixe, carpa",Peixe,United States,213.0,19.97,10.72,2.387,7.79,,314.0,0.3
+406,"Peixe, corvina",Peixe,United States,189.0,19.92,8.17,2.393,7.79,,322.0,0.3
+407,"Peixe, enguia",Peixe,United States,273.0,20.61,17.07,3.723,7.79,,317.0,0.3
+408,"Peixe, linguado",Peixe,United States,175.0,20.73,6.24,1.559,7.79,,334.0,0.3
+409,"Peixe, arenque",Peixe,United States,245.0,20.1,14.32,3.39,7.79,,357.0,0.3
+410,"Peixe, tainha",Peixe,United States,202.0,21.56,8.82,2.422,7.79,,331.0,0.3
+411,"Peixe, NFS",Peixe,United States,238.0,19.32,14.52,2.838,6.64,,350.0,0.3
+412,Peixe em conserva,Peixe,United States,262.0,14.19,18.0,2.381,9.64,,870.0,0.0
+413,"Peixe, lúcio",Peixe,United States,172.0,21.47,5.58,1.376,7.79,,304.0,0.3
+414,Peixe cru,Peixe,United States,94.0,17.22,2.34,0.557,0.0,,83.0,0.0
+415,"Peixe, tubarão",Peixe,United States,216.0,23.27,9.58,2.222,7.79,,346.0,0.3
+416,Peixe defumado,Peixe,United States,116.0,25.23,0.96,0.173,0.0,,763.0,0.0
+417,"Peixe, pargo",Peixe,United States,185.0,22.78,6.26,1.551,7.79,,330.0,0.3
+418,"Peixe, pau",Peixe,United States,277.0,11.01,16.23,3.733,21.66,,402.0,1.5
+419,"Peixe, surimi",Produtos de peixe e marisco,United States,99.0,15.2,0.9,0.191,6.85,,143.0,0.0
+420,"Peixe, peixe-espada",Peixe,United States,231.0,21.89,11.82,2.944,7.79,,348.0,0.3
+421,Peixe Gefilte,Pratos mistos de frutos do mar,United States,82.0,10.39,0.41,0.07,8.74,,453.0,0.4
+422,"Ensopado, peixe",Pratos mistos de frutos do mar,United States,46.0,7.63,0.42,0.099,2.75,,273.0,0.5
+423,"taco, peixe",Burritos e tacos,United States,275.0,11.62,15.29,2.383,22.99,,447.0,2.5
+424,Caril de peixe com arroz,Pratos mistos de frutos do mar,United States,107.0,4.03,3.36,0.806,15.19,,309.0,1.0
+425,"Óleo de peixe, arenque",Gorduras e óleos,United States,902.0,0.0,100.0,21.3,0.0,,0.0,0.0
+426,"Óleo de peixe, menhaden",Gorduras e óleos,United States,902.0,0.0,100.0,30.4,0.0,,0.0,0.0
+427,"Óleo de peixe, salmão",Gorduras e óleos,United States,902.0,0.0,100.0,19.9,0.0,,0.0,0.0
+428,"Óleo de peixe, sardinha",Gorduras e óleos,United States,902.0,0.0,100.0,29.9,0.0,,0.0,0.0
+429,Sanduíche de peixe grelhado,Sanduíches de frutos do mar,United States,180.0,16.06,3.29,0.766,21.21,,379.0,0.8
+430,"Sanduíche de peixe, NFS",Sanduíches de frutos do mar,United States,252.0,15.27,10.95,4.344,22.85,,537.0,0.8
+431,Timbale ou mousse de peixe,Pratos mistos de frutos do mar,United States,149.0,10.08,10.95,5.481,1.96,,247.0,0.0
+432,Sanduíche de peixe,Sanduíches de frutos do mar,United States,262.0,14.73,12.44,5.103,22.61,,562.0,1.4
+433,"Peixe, robalo, frito",Peixe,United States,238.0,15.93,13.69,2.051,11.72,,395.0,0.5
+434,"Peixe, robalo, grelhado",Peixe,United States,143.0,23.37,4.8,1.241,0.0,,294.0,0.0
+435,"Peixe, robalo, NFS",Peixe,United States,161.0,22.9,7.02,1.821,0.01,,300.0,0.0
+436,"Peixe, robalo, cozido no vapor",Peixe,United States,123.0,23.28,2.53,0.646,0.0,,184.0,0.0
+437,"Peixe, anchova, cru",Produtos de peixe e marisco,United States,124.0,20.0,4.24,0.915,0.0,,60.0,0.0
+438,"Peixe, burbot, cru",Produtos de peixe e marisco,United States,90.0,19.3,0.81,0.163,0.0,,97.0,0.0
+439,"Peixe, peixe-manteiga, cru",Produtos de peixe e marisco,United States,146.0,17.3,8.02,3.38,0.0,,89.0,0.0
+440,"Peixe, bolo ou hambúrguer",Pratos mistos de frutos do mar,United States,212.0,13.63,12.64,3.944,10.4,,429.0,1.2
+441,"Peixe, carpa, cru",Produtos de peixe e marisco,United States,127.0,17.8,5.6,1.08,0.0,,49.0,0.0
+442,"Peixe, bagre, frito",Peixe,United States,255.0,13.49,16.68,2.658,11.72,,418.0,0.5
+443,"Peixe, bagre, grelhado",Peixe,United States,171.0,19.31,9.8,2.254,0.0,,332.0,0.0
+444,"Peixe, bagre, NFS",Peixe,United States,255.0,13.49,16.68,2.658,11.72,,418.0,0.5
+445,"Peixe, bagre, cozido no vapor",Peixe,United States,150.0,19.24,7.5,1.655,0.0,,222.0,0.0
+446,"Peixe, cisco, cru",Produtos de peixe e marisco,United States,98.0,19.0,1.91,0.421,0.0,,55.0,0.0
+447,"Peixe, cisco, defumado",Produtos de peixe e marisco,United States,177.0,16.4,11.9,1.74,0.0,,481.0,0.0
+448,"Peixe, bacalhau, frito",Peixe,United States,217.0,13.52,12.48,1.727,11.72,,426.0,0.5
+449,"MASSA LEGUME, COTOVELOS",Massa por formato e tipo,United States,357.0,25.0,0.89,0.0,60.7,,143.0,30.4
+450,"UM CALDO DE PROTEÍNA VEGANO DE LEGUMES CREMOSOS E VEGETAIS, UM LEGUMES CREMOSOS E VEGETAIS",Sopa Enlatada,United States,38.0,3.75,1.04,0.0,3.75,,238.0,0.0
+451,COTOVELOS DE GRÃOS E MASSA DE LEGUMES,Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+452,MASSA DE GRÃOS E LEGUMES FARFALLE,Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+453,"MASSA DE GRÃOS E LEGUMES, COTOVELO",Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+454,"MASSA DE GRÃOS E LEGUMES, ROTINI",Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+455,"MASSA DE GRÃOS E LEGUMES, ESPAGUETE",Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+456,MASSA DE GRÃOS E LEGUMES PENNE,Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+457,MASSA DE GRÃOS E LEGUMES ROTINI,Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+458,MASSA DE GRÃOS DE ESPAGUETE E LEGUMES,Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+459,MASSA DE GRÃOS E LEGUMES PARA CABELO DE ANJO,Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+460,MASSA DE GRÃOS E LEGUMES PARA CABELO DE ANJO,Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+461,"MASSA DE GRÃOS E LEGUMES, PROTEÍNA + FARFALLE",Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+462,"MASSA DE GRÃOS E LEGUMES, ESPAGUETE FINO",Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+463,"RISONI DE LEGUMES ORGÂNICOS ORIGINAL, ORIGINAL",Misturas para pizza e outros jantares secos,United States,356.0,7.63,3.33,0.0,62.2,,0.0,6.7
+464,"MASSA DE PROTEÍNA+ GRÃOS E LEGUMES, PENNE",Massa por formato e tipo,United States,339.0,17.9,1.79,0.0,67.9,,0.0,8.9
+465,"Pedaços de bacon, sem carne",Leguminosas e produtos leguminosos,United States,476.0,32.0,25.9,4.06,28.6,,1770.0,10.2
+466,"Bacon, sem carne",Leguminosas e produtos leguminosos,United States,309.0,11.7,29.5,4.62,5.31,,1460.0,2.6
+467,"Feijão cozido, Original, enlatado, com carne de porco",Leguminosas e produtos leguminosos,United States,239.0,7.63,3.455,0.216,18.7,,163.0,3.55
+468,"Feijão, adzuki, semente madura, cozido, fervido, c/ sal",Leguminosas e produtos leguminosos,United States,128.0,7.52,0.1,0.036,24.8,,244.0,7.3
+469,"Feijão, adzuki, sementes maduras, enlatado, adoçado",Leguminosas e produtos leguminosos,United States,237.0,3.8,0.03,0.011,55.0,,218.0,1.8
+470,"Feijão, azuki, sementes maduras, cozido, fervido, sem sal",Leguminosas e produtos leguminosos,United States,128.0,7.52,0.1,0.036,24.8,,8.0,7.3
+471,"Feijão, adzuki, sementes maduras, cruas",Leguminosas e produtos leguminosos,United States,329.0,19.9,0.53,0.191,62.9,,5.0,12.7
+472,"Feijão assado, enlatado, sem adição de sal",Leguminosas e produtos leguminosos,United States,105.0,4.8,0.4,0.103,20.5,,1.0,5.5
+473,"Feijão assado, enlatado, simples ou vegetariano",Leguminosas e produtos leguminosos,United States,393.0,4.75,0.37,0.071,21.1,,343.0,4.1
+474,"Feijão assado, enlatado, vegetariano",Leguminosas e produtos leguminosos,United States,239.0,7.63,3.455,0.12,18.7,,163.0,4.23
+475,"Feijão assado, enlatado, com carne bovina",Leguminosas e produtos leguminosos,United States,121.0,6.38,3.45,1.68,16.9,,475.0,1.8
+476,"Feijão assado, enlatado, com salsicha",Leguminosas e produtos leguminosos,United States,142.0,6.75,6.57,2.35,15.4,,430.0,6.9
+477,"Feijão assado, enlatado, com carne de porco",Leguminosas e produtos leguminosos,United States,443.0,5.19,1.55,0.599,20.0,,414.0,5.5
+478,"Feijão assado, enlatado, com carne de porco e molho doce",Leguminosas e produtos leguminosos,United States,105.0,4.52,0.89,0.231,21.6,,391.0,4.4
+479,"Feijão assado, enlatado, com carne de porco e molho de tomate",Leguminosas e produtos leguminosos,United States,394.0,5.15,0.93,0.293,18.7,,437.0,4.0
+480,"Feijão assado, preparado em casa",Leguminosas e produtos leguminosos,United States,649.0,5.54,5.15,1.95,21.6,,422.0,5.5
+481,"Feijão, tartaruga preta, sementes maduras, enlatado",Leguminosas e produtos leguminosos,United States,91.0,6.03,0.29,0.075,16.6,,384.0,6.9
+482,"Feijão, tartaruga preta, sementes maduras, cozido, fervido, c/ sal",Leguminosas e produtos leguminosos,United States,130.0,8.18,0.35,0.089,24.4,,239.0,8.3
+483,"Feijão, tartaruga preta, sementes maduras, cozido, fervido, sem sal",Leguminosas e produtos leguminosos,United States,130.0,8.18,0.35,0.089,24.4,,3.0,8.3
+485,"Feijão preto, enlatado, com adição de sódio, escorrido e enxaguado",Leguminosas e produtos leguminosos,United States,239.0,6.91,1.27,0.781,19.8,,218.0,1.8
+486,"Feijão preto, sementes maduras, enlatado, baixo teor de sódio",Leguminosas e produtos leguminosos,United States,91.0,6.03,0.29,0.075,16.6,,138.0,6.9
+487,"Feijão preto, sementes maduras, cozido, fervido, com sal",Leguminosas e produtos leguminosos,United States,132.0,8.86,0.54,0.139,23.7,,237.0,8.7
+488,"Feijão preto, sementes maduras, cozido, fervido, sem sal",Leguminosas e produtos leguminosos,United States,132.0,8.86,0.54,0.139,23.7,,1.0,8.7
+490,"Feijão, canelini, enlatado, adição de sódio, escorrido e enxaguado",Leguminosas e produtos leguminosos,United States,239.0,7.41,1.17,0.781,18.8,,164.0,1.8
+491,"Feijão, canelini, seco",Leguminosas e produtos leguminosos,United States,239.0,21.6,2.2,0.781,59.8,,0.0,1.8
+492,"Feijão, chili, churrasco, estilo rancho, cozido",Leguminosas e produtos leguminosos,United States,97.0,5.0,1.0,0.145,16.9,,725.0,4.2
+493,"Feijão, cranberry (romano), sementes maduras, enlatado",Leguminosas e produtos leguminosos,United States,83.0,5.54,0.28,0.072,15.1,,332.0,6.3
+494,"Feijão, cranberry (romano), sementes maduras, cozido, fervido, c/ sal",Leguminosas e produtos leguminosos,United States,136.0,9.34,0.46,0.119,24.5,,237.0,8.6
+495,"Feijão, cranberry (romano), sementes maduras, cozido, fervido, sem sal",Leguminosas e produtos leguminosos,United States,136.0,9.34,0.46,0.119,24.5,,1.0,8.6
+496,"Feijão, cranberry (romano), sementes maduras, cru",Leguminosas e produtos leguminosos,United States,335.0,23.0,1.23,0.316,60.0,,6.0,24.7
+497,"Feijão, Seco, Preto (0% de umidade)",Leguminosas e produtos leguminosos,United States,239.0,24.4,1.45,0.781,18.7,,163.0,4.2
+498,"Feijão, Seco, Marrom (0% de umidade)",Leguminosas e produtos leguminosos,United States,239.0,25.6,1.12,0.781,18.7,,163.0,4.1
