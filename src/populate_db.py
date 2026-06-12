@@ -9,7 +9,17 @@ categorias = [
     "grain",
     "nut",
     "fish",
-    "legume"
+    "legume",
+    "breakfast cereal",
+    "snack",
+    "beverage",
+    "meat",
+    "egg",
+    "herb",
+    "spice",
+    "seafood",
+    "bread",
+    "soup"
 ]
 for categoria in categorias:
     print(f"\nColetanto{categoria}...")
