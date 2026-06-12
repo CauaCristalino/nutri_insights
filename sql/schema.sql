@@ -4,8 +4,8 @@ USE nutri_insights;
 
 CREATE TABLE IF NOT EXISTS alimentos (
     id INT AUTO_INCREMENT PRIMARY KEY,
-    nome_alimento VARCHAR(200),
-    categoria_alimento VARCHAR(255),
+    nome VARCHAR(200),
+    categoria VARCHAR(255),
     pais VARCHAR(100),
     calorias_100g FLOAT,
     proteinas_100g FLOAT,
