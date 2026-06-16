@@ -8,7 +8,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **NutriInsights** é um projeto de dados end-to-end desenvolvido com foco em saúde e nutrição. O objetivo é coletar, armazenar, tratar e visualizar dados nutricionais de alimentos, além de disponibilizar um agente de IA capaz de responder perguntas sobre os dados em linguagem natural.
+O **Nutri Insights** é um projeto de dados end-to-end desenvolvido com foco em saúde e nutrição. O objetivo é coletar, armazenar, tratar e visualizar dados nutricionais de alimentos, além de disponibilizar um agente de IA capaz de responder perguntas sobre os dados em linguagem natural.
 
 > Projeto desenvolvido como portfólio para a área de Dados e IA, com aplicação direta no contexto de saúde, prevenção e bem-estar.
 
@@ -114,6 +114,7 @@ O dashboard foi dividido em 3 páginas:
 **Página 1 — Analisador Nutricional**
 
 ![Página 1](assets/dashboard_pagina1.png)
+
 Visão geral com KPIs interativos, filtros por grupo alimentar e faixa de calorias, distribuição de macronutrientes e comparativo entre alimentos.
 
 **Página 2 — Análise Energética e Rankings**
@@ -177,11 +178,17 @@ pip install -r requirements.txt
 Crie um arquivo `.env` igual ao arquivo `.env.example` com esses dados e altere com as suas chaves:
 
 DB_HOST=localhost
+
 DB_PORT=3306
+
 DB_USER=root
+
 DB_PASSWORD=sua_senha
+
 DB_NAME=nutri_insights
+
 FDC_API_KEY=sua_chave_usda
+
 GROQ_API_KEY=sua_chave_groq
 
 ### Execução
@@ -227,3 +234,8 @@ Estudante de Informática para Negócios — Fatec
 ## 📄 Fonte dos Dados
 
 [USDA FoodData Central](https://fdc.nal.usda.gov/) — Base oficial do Departamento de Agricultura dos Estados Unidos com dados nutricionais de mais de 600.000 alimentos.
+
+## Link API Groq
+
+[Groq API keys](https://console.groq.com/keys) - A **Groq** é uma plataforma de infraestrutura focada em hardware especializado (LPU) que executa modelos de inteligência artificial de código aberto com velocidade extrema e latência quase zero.
+
